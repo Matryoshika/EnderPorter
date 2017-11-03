@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "YEY",
+        "ESE",
+        "YEY"
+    ],
+    "key": {
+        "E": {
+            "item": "minecraft:end_crystal"
+        },
+        "S": {
+            "item": "minecraft:nether_star"
+        },
+        "Y": {
+            "item": "minecraft:ender_eye"
+        }
+    },
+    "result": {
+        "item": "enderporter:blockenderporter"
+    }
+}
