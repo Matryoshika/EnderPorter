@@ -25,7 +25,7 @@ public class EnderPorter {
 		@Override
 		@SideOnly(Side.CLIENT)
 		public ItemStack getTabIconItem() {
-			return new ItemStack(Items.ENDER_EYE);
+			return new ItemStack(Registry.ENDER_PORTER);
 		}
 	};
 	
